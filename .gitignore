@@ -1,1 +1,3 @@
 data_path.py
+.ipynb_checkpoints/
+__pycache__/
