@@ -1,1 +1,0 @@
-DATA_PATH_SROK8C = "/media/mrk/F6B4C17DB4C1413B/rihmi_wdc_data/srok8c_data/Srok8c/"
